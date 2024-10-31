@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Native Excerpt\n"
+"POT-Creation-Date: 2017-06-10 15:17+0300\n"
+"PO-Revision-Date: 2017-06-10 15:17+0300\n"
+"Last-Translator: Oleg Komarovskyi <komarovski21@gmail.com>\n"
+"Language-Team: komarovski21@gmail.com <komarovski21@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_e;__;gettext;gettext_noop\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../native-wp-excerpt.php:30 ../native-wp-excerpt.php:53
+#: ../native-wp-excerpt.php:85 ../native-wp-excerpt.php:103
+msgid "Read More"
+msgstr "Читать подробнее"
+
+#: ../native-wp-excerpt.php:66 ../native-wp-excerpt.php:114
+msgid "Excerpt settings"
+msgstr "Настройки цитат"
+
+#: ../native-wp-excerpt.php:70
+msgid "Excerpt"
+msgstr "Цитата"
+
+#: ../native-wp-excerpt.php:73
+msgid "Excerpt tail"
+msgstr "Хвост цитат"
+
+#: ../native-wp-excerpt.php:77
+msgid "Make excerpt as link to a post"
+msgstr "Сделать цитату как ссылку на запись"
+
+#: ../native-wp-excerpt.php:79
+msgid "Yes, make excerpt as link to a post"
+msgstr "Да, сделать цитату ссылкой на запись"
+
+#: ../native-wp-excerpt.php:80
+msgid "No, leave excerpt as plain text"
+msgstr "Нет, оставить цитату простым текстом"
+
+#: ../native-wp-excerpt.php:84
+msgid "Link text"
+msgstr "Текст ссылки"
+
+#: ../native-wp-excerpt.php:88
+msgid "Length of words in excerpt"
+msgstr "Количество слов в цитате"
+
+#: ../native-wp-excerpt.php:92
+msgid "Read More Tag"
+msgstr "\"Далее\" тег"
+
+#: ../native-wp-excerpt.php:95
+msgid "Remove scroll from read more link"
+msgstr "Убрать прокрутку из ссылки"
+
+#: ../native-wp-excerpt.php:97
+msgid "Yes"
+msgstr "Да"
+
+#: ../native-wp-excerpt.php:98
+msgid "No"
+msgstr "Нет"
+
+#: ../native-wp-excerpt.php:102
+msgid "Read More Tag text"
+msgstr "Текст ссылки"
+
+#: ../native-wp-excerpt.php:107
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: ../native-wp-excerpt.php:114
+msgid "Native WP Excerpt"
+msgstr "Цитаты"
+
+#~ msgid ""
+#~ "Edit output of excerpt, set the tail, length of words and choose the type "
+#~ "of excerpt: plain text or link to a post."
+#~ msgstr ""
+#~ "Настройте вывод цитат, установите хвост, длину слов и выберите тип "
+#~ "цитаты: простой текст или ссылка на запись."
+
+#~ msgid "Excerpts"
+#~ msgstr "Цитаты"
